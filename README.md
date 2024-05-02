@@ -1,4 +1,4 @@
-# assigment3
+# Courses flutter ui
 
 A new Flutter project.
 
